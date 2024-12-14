@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae4493f"
+  },
+  "nome": "Enfermeira Paula Lima",
+  "CPF": "12345678909",
+  "registro_CRE": "CRE12345"
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44943"
+  },
+  "nome": "Enfermeiro José Santos",
+  "CPF": "0376432100",
+  "registro_CRE": "CRE03764"
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44940"
+  },
+  "nome": "Enfermeiro Carlos Souza",
+  "CPF": "12345678900",
+  "registro_CRE": "CRE12345",
+  "data_nascimento": {
+    "$date": "1992-06-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44941"
+  },
+  "nome": "Enfermeiro João Mendes",
+  "CPF": "98765432100",
+  "registro_CRE": "CRE67890"
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44942"
+  },
+  "nome": "Enfermeira Maria Silva",
+  "CPF": "1231785929",
+  "registro_CRE": "CRE178592",
+  "data_nascimento": {
+    "$date": "1998-12-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44945"
+  },
+  "nome": "Enfermeiro Pedro Alves",
+  "CPF": "88297432100",
+  "registro_CRE": "CRE88297"
+},
+{
+  "_id": {
+    "$oid": "66e9947d1c5bb5e44ae44944"
+  },
+  "nome": "Enfermeira Ana Souza",
+  "CPF": "16672678909",
+  "registro_CRE": "CRE16672"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488b6"
+  },
+  "nome": "Enfermeira Paula Lima",
+  "CPF": "12345678909",
+  "registro_CRE": "CRE12345"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488b7"
+  },
+  "nome": "Enfermeiro João Silva",
+  "CPF": "98765432100",
+  "registro_CRE": "CRE54321"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488b8"
+  },
+  "nome": "Enfermeira Maria Souza",
+  "CPF": "23456789123",
+  "registro_CRE": "CRE23456"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488b9"
+  },
+  "nome": "Enfermeira Ana Oliveira",
+  "CPF": "34567891234",
+  "registro_CRE": "CRE34567"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488ba"
+  },
+  "nome": "Enfermeiro Carlos Pereira",
+  "CPF": "45678912345",
+  "registro_CRE": "CRE45678"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488bb"
+  },
+  "nome": "Enfermeira Juliana Costa",
+  "CPF": "56789123456",
+  "registro_CRE": "CRE56789"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488bc"
+  },
+  "nome": "Enfermeiro Roberto Santos",
+  "CPF": "67891234567",
+  "registro_CRE": "CRE67890"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488bd"
+  },
+  "nome": "Enfermeira Daniela Castro",
+  "CPF": "78912345678",
+  "registro_CRE": "CRE78901"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488be"
+  },
+  "nome": "Enfermeiro Pedro Carvalho",
+  "CPF": "89123456789",
+  "registro_CRE": "CRE89012"
+},
+{
+  "_id": {
+    "$oid": "670d71014f2b7d1e96a488bf"
+  },
+  "nome": "Enfermeira Fernanda Lima",
+  "CPF": "91234567890",
+  "registro_CRE": "CRE90123"
+}]

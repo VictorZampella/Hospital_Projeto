@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "66e996237cac832beb827a6a"
+  },
+  "numero": "101",
+  "tipo": "Apartamento",
+  "valor_diario": 300
+},
+{
+  "_id": {
+    "$oid": "66e996237cac832beb827a6b"
+  },
+  "numero": "102",
+  "tipo": "Quarto Duplo",
+  "valor_diario": 200
+},
+{
+  "_id": {
+    "$oid": "66e996237cac832beb827a6c"
+  },
+  "numero": "103",
+  "tipo": "Enfermaria",
+  "valor_diario": 150
+},
+{
+  "_id": {
+    "$oid": "670d6f114f2b7d1e96a488b3"
+  },
+  "numero": "104",
+  "tipo": "Apartamento",
+  "valor_diario": 150
+},
+{
+  "_id": {
+    "$oid": "670d6f114f2b7d1e96a488b4"
+  },
+  "numero": "105",
+  "tipo": "Quarto Duplo",
+  "valor_diario": 100
+},
+{
+  "_id": {
+    "$oid": "670d6f114f2b7d1e96a488b5"
+  },
+  "numero": "106",
+  "tipo": "Enfermaria",
+  "valor_diario": 75
+}]

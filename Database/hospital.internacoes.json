@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "6706bc56a4dd24a2e812f461"
+  },
+  "paciente_id": "8a24h1b5d9931b5b00ajhs3b",
+  "medico_responsavel_id": "5f8b3b9bew36b1f1c1f1caa",
+  "data_entrada": "2021-04-10T08:00:00Z",
+  "data_prevista_alta": "2021-04-15T10:00:00Z",
+  "data_efetiva_alta": "2021-04-14T12:00:00Z",
+  "procedimentos": [
+    "Cirurgia",
+    "Exame de sangue"
+  ],
+  "enfermeiros_responsaveis": [
+    {
+      "nome": "José Santos",
+      "cpf": "0376432100",
+      "registro": "CRE03764"
+    },
+    {
+      "nome": "Pedro Alves",
+      "cpf": "88297432100",
+      "registro": "CRE88297"
+    }
+  ],
+  "quarto": {
+    "id": {
+      "$oid": "66e996237cac832beb827a6a"
+    },
+    "numero": "101",
+    "tipo": "Apartamento",
+    "valor_diario": 300
+  }
+},
+{
+  "_id": {
+    "$oid": "6706c570eeee5679bc5450a2"
+  },
+  "paciente_id": "788b3b9b0b1e6b1f1c1f1c1f",
+  "medico_responsavel_id": "5f8b3b9bew36b1f1c1f1caa",
+  "data_entrada": "2021-04-10T08:00:00Z",
+  "data_prevista_alta": "2021-04-15T10:00:00Z",
+  "data_efetiva_alta": "2021-04-14T12:00:00Z",
+  "procedimentos": [
+    "Cirurgia",
+    "Exame de sangue"
+  ],
+  "enfermeiros_responsaveis": [
+    {
+      "nome": "Paula Lima",
+      "cpf": "12345678909",
+      "registro": "CRE12345"
+    },
+    {
+      "nome": "João Mendes",
+      "cpf": "98765432100",
+      "registro": "CRE67890"
+    }
+  ],
+  "quarto": {
+    "id": {
+      "$oid": "66e996237cac832beb827a6b"
+    },
+    "numero": "102",
+    "tipo": "Quarto Duplo",
+    "valor_diario": 200
+  }
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac18"
+  },
+  "paciente_id": "650cf54e06cd340000000001",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5847",
+  "data_internacao": "2016-03-15",
+  "data_alta": "2016-03-20",
+  "quarto": {
+    "numero": "101",
+    "tipo": "Apartamento",
+    "valor_diario": 300
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Paula Lima",
+      "CPF": "12345678909"
+    },
+    {
+      "nome": "Enfermeiro José Santos",
+      "CPF": "0376432100"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac19"
+  },
+  "paciente_id": "650cf54e06cd340000000002",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5848",
+  "data_internacao": "2019-05-10",
+  "data_alta": "2019-05-15",
+  "quarto": {
+    "numero": "102",
+    "tipo": "Quarto Duplo",
+    "valor_diario": 200
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeiro Carlos Souza",
+      "CPF": "12345678900"
+    },
+    {
+      "nome": "Enfermeiro João Mendes",
+      "CPF": "98765432100"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac1a"
+  },
+  "paciente_id": "650cf54e06cd340000000001",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5849",
+  "data_internacao": "2021-01-10",
+  "data_alta": "2021-01-15",
+  "quarto": {
+    "numero": "103",
+    "tipo": "Enfermaria",
+    "valor_diario": 150
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Maria Silva",
+      "CPF": "1231785929"
+    },
+    {
+      "nome": "Enfermeiro Pedro Alves",
+      "CPF": "88297432100"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac1b"
+  },
+  "paciente_id": "650cf54e06cd340000000003",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5848",
+  "data_internacao": "2020-08-22",
+  "data_alta": "2020-08-30",
+  "quarto": {
+    "numero": "104",
+    "tipo": "Apartamento",
+    "valor_diario": 150
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Ana Souza",
+      "CPF": "16672678909"
+    },
+    {
+      "nome": "Enfermeiro Pedro Alves",
+      "CPF": "88297432100"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac1c"
+  },
+  "paciente_id": "650cf54e06cd340000000002",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5847",
+  "data_internacao": "2017-02-20",
+  "data_alta": "2017-02-25",
+  "quarto": {
+    "numero": "105",
+    "tipo": "Quarto Duplo",
+    "valor_diario": 100
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Juliana Costa",
+      "CPF": "56789123456"
+    },
+    {
+      "nome": "Enfermeiro Roberto Santos",
+      "CPF": "67891234567"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac1d"
+  },
+  "paciente_id": "650cf54e06cd340000000003",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5848",
+  "data_internacao": "2019-11-01",
+  "data_alta": "2019-11-05",
+  "quarto": {
+    "numero": "106",
+    "tipo": "Enfermaria",
+    "valor_diario": 75
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Paula Lima",
+      "CPF": "12345678909"
+    },
+    {
+      "nome": "Enfermeiro Carlos Pereira",
+      "CPF": "45678912345"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67180d7c8c260fe8ba42ac1e"
+  },
+  "paciente_id": "650cf54e06cd340000000004",
+  "medico_responsavel_id": "66e989df6a0ff9b5b47e5849",
+  "data_internacao": "2021-04-12",
+  "data_alta": "2021-04-20",
+  "quarto": {
+    "numero": "101",
+    "tipo": "Apartamento",
+    "valor_diario": 300
+  },
+  "enfermeiros": [
+    {
+      "nome": "Enfermeira Ana Oliveira",
+      "CPF": "34567891234"
+    },
+    {
+      "nome": "Enfermeiro João Mendes",
+      "CPF": "98765432100"
+    }
+  ]
+}]

@@ -1,0 +1,326 @@
+[{
+  "_id": {
+    "$oid": "66e989df6a0ff9b5b47e5847"
+  },
+  "nome": "Dra. Ana Souza",
+  "data_nascimento": {
+    "$date": "1985-02-10T00:00:00.000Z"
+  },
+  "especialidades": [
+    "Dermatologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "222222222",
+    "email": "ana@hospital.com"
+  },
+  "documentos": {
+    "CPF": "23456789012",
+    "CRM": "SP234567"
+  },
+  "status": 1,
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "66e989df6a0ff9b5b47e5848"
+  },
+  "nome": "Dr. Roberto Dias",
+  "data_nascimento": {
+    "$date": "1990-11-05T00:00:00.000Z"
+  },
+  "especialidades": [
+    "Clínica Geral",
+    "Cardiologia"
+  ],
+  "tipo": "Residente",
+  "contato": {
+    "telefone": "444444444",
+    "email": "roberto@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "45678901234",
+    "CRM": "RJ456789"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "66e989df6a0ff9b5b47e584a"
+  },
+  "nome": "Dr. Carlos Pereira",
+  "status": 0,
+  "data_nascimento": {
+    "$date": "1975-08-22T00:00:00.000Z"
+  },
+  "especialidades": [
+    "Gastroenterologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "333333333",
+    "email": "carlos@hospital.com"
+  },
+  "documentos": {
+    "CPF": "34567890123",
+    "CRM": "MA345678"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "66e989df6a0ff9b5b47e5849"
+  },
+  "nome": "Dr. João Silva",
+  "data_nascimento": {
+    "$date": "1980-05-14T00:00:00.000Z"
+  },
+  "especialidades": [
+    "Pediatria"
+  ],
+  "tipo": "Generalista",
+  "contato": {
+    "telefone": "111111111",
+    "email": "joao@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "12345678901",
+    "CRM": "MG123456"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "66e99713fc4ea17c70e984c7"
+  },
+  "nome": "Dra. Carla Elizabete",
+  "data_nascimento": {
+    "$date": "1989-06-29T00:00:00.000Z"
+  },
+  "especialidades": [
+    "Infectologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "55-11-98765-4321",
+    "email": "carla.bete@hospital.com"
+  },
+  "documentos": {
+    "CPF": "23456789012",
+    "CRM": "MG234567"
+  },
+  "status": 1,
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a5"
+  },
+  "nome": "Dr. Kauan Lusbel",
+  "data_nascimento": "2003-05-15",
+  "especialidades": [
+    "Dermatologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999993",
+    "email": "lusbel@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010103",
+    "CRM": "SP000003"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a6"
+  },
+  "nome": "Dr. Maykon Silva",
+  "data_nascimento": "",
+  "especialidades": [
+    "Gastrenterologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999994",
+    "email": "maykon@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010104",
+    "CRM": "SP000004"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a3"
+  },
+  "nome": "Dr. Murilo Coelho",
+  "data_nascimento": "2006-04-10",
+  "especialidades": [
+    "Ginecologisca"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999991",
+    "email": "murilo@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010101",
+    "CRM": "SP000001"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a9"
+  },
+  "nome": "Dr. Hudson de Souza",
+  "data_nascimento": "2003-11-09",
+  "especialidades": [
+    "Cirurgiao Geral"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999997",
+    "email": "hudson@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010107",
+    "CRM": "SP000007"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a4"
+  },
+  "nome": "Dr. Matheus Oliveira",
+  "data_nascimento": "2006-05-11",
+  "especialidades": [
+    "Clinica Geral"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999992",
+    "email": "matheus@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010102",
+    "CRM": "SP000002"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a7"
+  },
+  "nome": "Dra. Andressa Prudente",
+  "data_nascimento": "",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999995",
+    "email": "andressa@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010105",
+    "CRM": "SP000005"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450ab"
+  },
+  "nome": "Dr. Gabriel Augusto",
+  "data_nascimento": "",
+  "especialidades": [
+    "Neurologia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999999",
+    "email": "curtis@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010109",
+    "CRM": "SP000009"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450a8"
+  },
+  "nome": "Dra. Anna Cristina",
+  "data_nascimento": "",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999996",
+    "email": "anna@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010106",
+    "CRM": "SP000006"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450aa"
+  },
+  "nome": "Dr. Victor de Curtis",
+  "data_nascimento": "",
+  "especialidades": [
+    "Ortopedia"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999998",
+    "email": "curtis@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010108",
+    "CRM": "SP000008"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "6706de21eeee5679bc5450ac"
+  },
+  "nome": "Dra. Aurora Seles",
+  "data_nascimento": "",
+  "especialidades": [
+    "Psiquiatria"
+  ],
+  "tipo": "Especialista",
+  "contato": {
+    "telefone": "999999990",
+    "email": "curtis@hospital.com"
+  },
+  "status": 1,
+  "documentos": {
+    "CPF": "10101010100",
+    "CRM": "SP000000"
+  },
+  "em_atividade": true
+}]

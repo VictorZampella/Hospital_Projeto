@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67085b2e948c5ce616eade68"
+  },
+  "nome": "Vida Saúde",
+  "cnpj": "12345678000190",
+  "tipo": "Plano Familiar",
+  "cobertura": "Nacional",
+  "telefone": "(11) 1234-5678"
+},
+{
+  "_id": {
+    "$oid": "67085b2e948c5ce616eade69"
+  },
+  "nome": "Bem Estar",
+  "cnpj": "23456789000101",
+  "tipo": "Plano Empresarial",
+  "cobertura": "Regional",
+  "telefone": "(21) 2345-6789"
+},
+{
+  "_id": {
+    "$oid": "67085b2e948c5ce616eade6a"
+  },
+  "nome": "Saúde Total",
+  "cnpj": "34567890000112",
+  "tipo": "Plano Individual",
+  "cobertura": "Nacional",
+  "telefone": "(31) 3456-7890"
+},
+{
+  "_id": {
+    "$oid": "67085b2e948c5ce616eade6b"
+  },
+  "nome": "QualiMed",
+  "cnpj": "45678901000123",
+  "tipo": "Plano Coletivo",
+  "cobertura": "Estadual",
+  "telefone": "(41) 4567-8901"
+}]
